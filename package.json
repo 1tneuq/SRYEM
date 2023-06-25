@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@caporal/core": "^2.0.2",
+    "canvas": "^2.10.2",
+    "caporal": "^1.4.0",
+    "colors": "^1.4.0",
+    "gift-pegjs": "^0.2.1",
+    "jasmine": "^4.5.0",
+    "prompt-sync": "^4.2.0",
+    "sharp": "^0.31.2",
+    "test": "^3.2.1",
+    "vega": "^5.22.1",
+    "vega-embed": "^6.21.0",
+    "vega-lite": "^5.6.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}

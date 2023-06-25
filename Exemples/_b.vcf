@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+1.nom; :
+.prenom; :b
+.adresse; :b
+.date de naissance; :b
+.email; :b
+.tel; :b
+END:VCARD
