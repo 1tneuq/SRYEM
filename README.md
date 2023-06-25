@@ -1,4 +1,4 @@
-# Sujet B - SRYEM
+# Projet SRYEM
 
 ## Description générale du projet
 
